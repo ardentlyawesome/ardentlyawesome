@@ -3,7 +3,7 @@
 ## About Me
 I am a developer based in India. Though still learning, I am curious and eager to learn and try new stuff!
 
-Currently doing the Machine Learning Course by Andrew Ng on Coursera, also working with Ruby, and Kotlin!
+Currently doing the Machine Learning Specialization by Andrew Ng on Coursera, also working with Ruby, and Kotlin!
 
 Find me on LinkedIn:
 www.linkedin.com/in/aindribajpai
