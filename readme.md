@@ -1,4 +1,4 @@
-# Hello! This is Andie
+# Hello! This is Aindri
 
 ## About Me
 I am a developer based in India. Though still learning, I am curious and eager to learn and try new stuff!
